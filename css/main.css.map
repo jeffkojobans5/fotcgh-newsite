@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AAiBA,AAAA,EAAE,CAAC;EACD,SAAS,EAAE,SAAS;CACrB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/abstracts/_variables.scss",
+        "../sass/abstracts/_functions.scss",
+        "../sass/abstracts/_mixins.scss",
+        "../sass/layout/_header.scss",
+        "../sass/layout/_footer.scss",
+        "../sass/components/_button.scss",
+        "../sass/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
