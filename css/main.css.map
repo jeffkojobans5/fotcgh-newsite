@@ -1,15 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAiBA,AAAA,EAAE,CAAC;EACD,SAAS,EAAE,SAAS;CACrB",
+    "mappings": "ACAA,AAAA,GAAG,CAAC;EACF,gBAAgB,EAAE,cAAc;EAChC,KAAK,EAAE,MAAM;CACd",
     "sources": [
-        "../sass/main.scss",
-        "../sass/abstracts/_variables.scss",
-        "../sass/abstracts/_functions.scss",
-        "../sass/abstracts/_mixins.scss",
-        "../sass/layout/_header.scss",
-        "../sass/layout/_footer.scss",
-        "../sass/components/_button.scss",
-        "../sass/pages/_home.scss"
+        "../scss/main.scss",
+        "../scss/components/_navbar.scss"
     ],
     "names": [],
     "file": "main.css"
